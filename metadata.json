@@ -1,0 +1,7 @@
+{
+  "name": "Ethereal Romance - Valentine's Experience",
+  "description": "A cinematic, interactive Valentine's Day web experience featuring a masonry gallery, animated love letter, relationship timeline, and magical surprises.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
